@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1644942671 source:c:\users\dell\desktop\raju-cpp-project\result-management-system\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
