@@ -1,1 +1,1 @@
-# raju-c-project-rms
+# c-project : result management system.
